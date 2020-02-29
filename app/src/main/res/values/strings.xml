@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AllAboutCoffee</string>
+    <string name="coffeeName">I am your Coffee</string>
+    <string name="textView">mhh dunno ...</string>
+    <string name="amount_wanted">mhh dunno what to say...</string>
+    <string name="sucsessfull_input">inserted new Coffee</string>
+
+</resources>

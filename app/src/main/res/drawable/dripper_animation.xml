@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item   android:drawable="@drawable/drippergrounds"
+        android:duration="1000"/>
+    <item   android:drawable="@drawable/dripperbloom"
+        android:duration="1000"/>
+    <item   android:drawable="@drawable/dripperfirstphase"
+        android:duration="1000"/>
+    <item   android:drawable="@drawable/drippersecondphase"
+        android:duration="1000"/>
+    <item   android:drawable="@drawable/dripperthirdphase"
+        android:duration="1000"/>
+    <item   android:drawable="@drawable/dripperfourthtphase"
+        android:duration="1000"/>
+</animation-list>
